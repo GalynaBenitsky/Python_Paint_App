@@ -13,6 +13,6 @@ Python Paint app.
 After creating the painting the file can be save as ".png" format at the computer.
 
 # Clone or download this repository
-git clone 
+git clone https://github.com/GalynaBenitsky/Python_Paint_App.git
 
 
